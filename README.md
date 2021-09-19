@@ -1,2 +1,2 @@
 # bash_profile
-alias and utility functions
+Holds various aliases and utility functions
